@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0",
-	"SemVersion": "",
+	"VersionName": "1.0.0",
+	"SemVersion": "1.0.0",
 	"FriendlyName": "DocMod",
 	"Description": "",
 	"Category": "Modding",
@@ -14,12 +14,5 @@
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
-	"Installed": false,
-	"Modules": [
-		{
-			"Name": "DocMod",
-			"Type": "Runtime",
-			"LoadingPhase": "PreLoadingScreen"
-		}
-	]
+	"Installed": false
 }
